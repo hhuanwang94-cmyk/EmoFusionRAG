@@ -1,0 +1,10 @@
+2025-12-04 16:48:03 - emotion_rag.main - INFO - [hhsoulchatshuju.py:42] - 当前工作目录: /EmotionHH/MyEmoHH/langgraph_app
+2025-12-04 16:48:03 - emotion_rag.main - INFO - [hhsoulchatshuju.py:42] - 当前工作目录: /EmotionHH/MyEmoHH/langgraph_app
+2025-12-04 16:48:03 - emotion_rag.main - INFO - [hhsoulchatshuju.py:43] - 项目根目录: /EmotionHH/MyEmoHH
+2025-12-04 16:48:03 - emotion_rag.main - INFO - [hhsoulchatshuju.py:43] - 项目根目录: /EmotionHH/MyEmoHH
+2025-12-04 16:48:03 - emotion_rag.main - INFO - [hhsoulchatshuju.py:49] - 成功导入BM25和utils模块
+2025-12-04 16:48:03 - emotion_rag.main - INFO - [hhsoulchatshuju.py:49] - 成功导入BM25和utils模块
+2025-12-04 16:48:03 - emotion_rag.main - INFO - [hhsoulchatshuju.py:55] - 检测到 4 个GPU可用
+2025-12-04 16:48:03 - emotion_rag.main - INFO - [hhsoulchatshuju.py:55] - 检测到 4 个GPU可用
+2025-12-04 16:48:03 - emotion_rag.models - INFO - [functions.py:102] - 已重置_force_cpu标志
+2025-12-04 16:48:03 - emotion_rag.models - INFO - [functions.py:102] - 已重置_force_cpu标志
